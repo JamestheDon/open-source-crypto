@@ -43,13 +43,13 @@ of creating such a resource is to shead light on the impact of each primative bu
 
 # Class Index
 
-## :ballot_box: **[Transaction Capabilities](README.md)**
+## :ballot_box: **[Transaction Capabilities](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities)**
 
-    - Data Structure in the Blockheader
-    - Transactional Model
-    - Server Storage
-    - Block Storage Storage
-    - Limits to Scalability
+[Data Structure in the Blockheader](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/data-structure-in-Blockheader)
+[Transactional Model](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Transactional-Model)
+[Server Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Server-Storage)
+[Block Storage Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Block-Storage-Storage)  
+ [Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
 
 ## :currency_exchange: **[Native Currency / Tokenisation](README.md)**
 
