@@ -31,6 +31,8 @@ A model around cryptosystems (ex. Bitcoin), the primative building blocks and !i
 
 Creating a resource to shead light on the impact and importance of the Crypto-tech and sharing knowledge and knowhow with **the** Industry.
 
+## Contribution
+
 :ballot_box_with_check: &nbsp;ToDo
 
 - [ ] Add **all** Cryptosystem Taxonomy components and sub-components.
@@ -42,28 +44,33 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 ## :ballot_box: **[Transaction Capabilities](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities)**
 
-- [Data Structure in the Blockheader](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/data-structure-in-Blockheader)
+→ [Data Structure in the Blockheader](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Data-Structure-In-Blockheader)
 
-- [Transactional Model](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Transactional-Model)
+→ [Transactional Model](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Transactional-Model)
 
-- [Server Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Server-Storage)
+→ [Server Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Server-Storage)
 
-- [Block Storage Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Block-Storage-Storage)
+→ [Block Storage Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Block-Storage-Storage)
 
-- [Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
+→ [Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
 
 ## :currency_exchange: **[Native Currency / Tokenisation](README.md)**
 
-    - Native Asset
-    - Asset Supply Management
-    - Tokenisation
+→ [Native Asset](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation/Native-Asset)
+
+→ [Asset Supply Management](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation/Asset-Supply-Mgmt)
+
+→ [Tokenisation](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation/Tokenisation)
 
 ## :globe_with_meridians: **[Extensibility](README.md)**
 
-    - Interoperability
-    - Intraoperability
-    - Governance
-    - Scripting Language
+→ [Interoperability](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Interoperability)
+
+→ [Intraoperability](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Intraoperability)
+
+→ [Governance](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Governance)
+
+→ [Scripting Language](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Scripting-Language)
 
 ## :closed_lock_with_key: **[Security and Privacy](README.md)**
 
