@@ -72,9 +72,12 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Scripting Language](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Scripting-Language)
 
-## :closed_lock_with_key: **[Security and Privacy](README.md)**
+## :closed_lock_with_key: **[Security and Privacy]()**
 
-    - Data Encryption
+→ [Data Encryption](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And_Privacy/Data-Encryption)
+
+→ [Data Privacy](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And_Privacy/Data-Privacy)
+
     - Data Privacy
 
 ## :computer: **[Codebase](README.md)**
