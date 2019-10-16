@@ -37,7 +37,7 @@ open-source-crypto is a project looking to build a model around cryptosystems (B
 
 # Class Index
 
-**[Transaction Capabilities](README.md)**
+## :ballot_box: **[Transaction Capabilities](README.md)**
 
     - Data Structure in the Blockheader
     - Transactional Model
@@ -45,41 +45,41 @@ open-source-crypto is a project looking to build a model around cryptosystems (B
     - Block Storage Storage
     - Limits to Scalability
 
-**[Native Currency / Tokenisation](README.md)**
+## :currency_exchange: **[Native Currency / Tokenisation](README.md)**
 
     - Native Asset
     - Asset Supply Management
     - Tokenisation
 
-**[Extensibility](README.md)**
+## :globe_with_meridians: **[Extensibility](README.md)**
 
     - Interoperability
     - Intraoperability
     - Governance
     - Scripting Language
 
-**[Security and Privacy](README.md)**
+## :closed_lock_with_key: **[Security and Privacy](README.md)**
 
     - Data Encryption
     - Data Privacy
 
-**[Codebase](README.md)**
+## :computer: **[Codebase](README.md)**
 
     - Coding Language
     - Coding License
     - SOftware Architecture
 
-**[Identity Mgmt.](README.md)**
+## :busts_in_silhouette: **[Identity Mgmt.](README.md)**
 
     - Access & Control Layer
     - Identity Layer
 
-**[Charging & Rewarding System](README.md)**
+## :balance_scale: **[Charging & Rewarding System](README.md)**
 
     - Reward System
     - Fee System
 
-**[Consensus](README.md)**
+## :handshake: **[Consensus](README.md)**
 
     - Consensus Network topology
     - Consensus Immutability & Failure Tolerance
