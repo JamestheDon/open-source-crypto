@@ -1,5 +1,3 @@
-# open-source-crypto
-
 <p align="center">"<i>Progress </i>"</p>
 
 <h4 align="center">Open Source Cryptosystem Taxonomy. Educational resource.</h4>
@@ -22,6 +20,8 @@
 </div>
 
 <br>
+
+# open-source-crypto
 
 ## Purpose
 
