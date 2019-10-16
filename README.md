@@ -26,11 +26,17 @@
 ## Purpose
 
 **draft**
-open-source-crypto is a project looking to build a model around cryptosystems (Bitcoin etc.) and what are the fine grained characteristics and details that these systems are composed and what make them special/differnt from normal systems
+open-source-crypto is a project looking to build:
+
+a model around cryptosystems (Bitcoin etc.) and what are the fine grained characteristics and details that these systems are composed and what make them special/differnt from normal systems
+
+The goal:
+
+of creating such a resource is to shead light on the impact of each primative building blocks had on the industry and the massive synergistic effect the unity of such tech is and will have on mankind.
 
 :ballot_box_with_check: &nbsp;ToDo
 
-- [ ] - Add all Cryptosystem Taxonomy classifications
+- [ ] - Add all Cryptosystem Taxonomy components and sub-components.
 - [ ] Build reference section.
 - [ ] - Contribution guidlines.
 - [ ] Write "repo mission" section.
