@@ -23,33 +23,34 @@
 
 # open-source-crypto
 
-## Purpose
+## open-source-crypto is a project building:
 
-**draft**
-open-source-crypto is a project looking to build:
+A model around cryptosystems (ex. Bitcoin), the primative building blocks and !important discovery details. Details such as the solving of philosophical problems (ex.Byzantine Generals Problem).
 
-a model around cryptosystems (Bitcoin etc.) and what are the fine grained characteristics and details that these systems are composed and what make them special/differnt from normal systems
+### The goal:
 
-The goal:
-
-of creating such a resource is to shead light on the impact of each primative building blocks had on the industry and the massive synergistic effect the unity of such tech is and will have on mankind.
+Creating a resource to shead light on the impact and importance of the Crypto-tech and sharing knowledge and knowhow with **the** Industry.
 
 :ballot_box_with_check: &nbsp;ToDo
 
-- [ ] - Add all Cryptosystem Taxonomy components and sub-components.
-- [ ] Build reference section.
-- [ ] - Contribution guidlines.
-- [ ] Write "repo mission" section.
+- [ ] Add **all** Cryptosystem Taxonomy components and sub-components.
+- [x] Build reference section.
+- [ ] Contribution guidlines.
+- [x] Write "repo mission" section.
 
-# Class Index
+# Index :open_file_folder:
 
 ## :ballot_box: **[Transaction Capabilities](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities)**
 
-[Data Structure in the Blockheader](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/data-structure-in-Blockheader)
-[Transactional Model](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Transactional-Model)
-[Server Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Server-Storage)
-[Block Storage Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Block-Storage-Storage)  
-[Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
+- [Data Structure in the Blockheader](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/data-structure-in-Blockheader)
+
+- [Transactional Model](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Transactional-Model)
+
+- [Server Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Server-Storage)
+
+- [Block Storage Storage](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Block-Storage-Storage)
+
+- [Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
 
 ## :currency_exchange: **[Native Currency / Tokenisation](README.md)**
 
