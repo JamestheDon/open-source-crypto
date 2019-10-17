@@ -82,7 +82,7 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Coding Language](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Coding-Language)
 
-→ [Coding License](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Coding-Language)
+→ [Coding License](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Coding-License)
 
 → [Software Architecture](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Software-Architecture)
 
@@ -92,15 +92,15 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Identity Layer](https://github.com/JamestheDon/open-source-crypto/tree/master/Identity-Mgmt/Identity-Layer)
 
-## :balance_scale: **[Charging & Rewarding System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding)**
+## :balance_scale: **[Charging & Rewarding System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding-System)**
 
-→ [Reward System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Reward-System)
+→ [Reward System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding-System/Reward-System)
 
-→ [Fee System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System)
+→ [Fee System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding-System/Fee-System)
 
-- [Fee Reward](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System/Fee-Reward)
+- [Fee Reward](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding-System/Fee-System/Fee-Reward)
 
-- [Fee Structre](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System/Fee-Structre)
+- [Fee Structure](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding-System/Fee-System/Fee-Structure)
 
 ## :handshake: **[Consensus](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus)**
 
