@@ -35,12 +35,12 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 :ballot_box_with_check: &nbsp;ToDo
 
-- [ ] Add **all** Cryptosystem Taxonomy components and sub-components.
+- [x] Add **all** Cryptosystem Taxonomy components and sub-components.
 - [x] Build reference section.
 - [ ] Contribution guidlines.
 - [x] Write "repo mission" section.
 
-# Index :open_file_folder:
+# :open_file_folder: Index ⤵️
 
 ## :ballot_box: **[Transaction Capabilities](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities)**
 
@@ -54,7 +54,7 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Limits to Scalability](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities/Limits-to-Scalability)
 
-## :currency_exchange: **[Native Currency / Tokenisation](README.md)**
+## :currency_exchange: **[Native Currency / Tokenisation](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation)**
 
 → [Native Asset](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation/Native-Asset)
 
@@ -62,7 +62,7 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Tokenisation](https://github.com/JamestheDon/open-source-crypto/tree/master/Native-Currency-Tokenisation/Tokenisation)
 
-## :globe_with_meridians: **[Extensibility](README.md)**
+## :globe_with_meridians: **[Extensibility](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility)**
 
 → [Interoperability](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Interoperability)
 
@@ -72,36 +72,49 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Scripting Language](https://github.com/JamestheDon/open-source-crypto/tree/master/Extensibility/Scripting-Language)
 
-## :closed_lock_with_key: **[Security and Privacy]()**
+## :closed_lock_with_key: **[Security and Privacy](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And-Privacy)**
 
-→ [Data Encryption](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And_Privacy/Data-Encryption)
+→ [Data Encryption](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And-Privacy/Data-Encryption)
 
-→ [Data Privacy](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And_Privacy/Data-Privacy)
+→ [Data Privacy](https://github.com/JamestheDon/open-source-crypto/tree/master/Security-And-Privacy/Data-Privacy)
 
-    - Data Privacy
+## :computer: **[Codebase](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase)**
 
-## :computer: **[Codebase](README.md)**
+→ [Coding Language](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Coding-Language)
 
-    - Coding Language
-    - Coding License
-    - SOftware Architecture
+→ [Coding License](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Coding-Language)
 
-## :busts_in_silhouette: **[Identity Mgmt.](README.md)**
+→ [Software Architecture](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Software-Architecture)
 
-    - Access & Control Layer
-    - Identity Layer
+## :busts_in_silhouette: **[Identity Mgmt.](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt)**
 
-## :balance_scale: **[Charging & Rewarding System](README.md)**
+→ [Access & Control Layer](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt/Access-And-Control-Layer)
 
-    - Reward System
-    - Fee System
+→ [Identity Layer](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt/Identity-Layer)
 
-## :handshake: **[Consensus](README.md)**
+## :balance_scale: **[Charging & Rewarding System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding)**
 
-    - Consensus Network topology
-    - Consensus Immutability & Failure Tolerance
-    - Gossiping
-    - Consensus Agreemant
+→ [Reward System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Reward-System)
+
+→ [Fee System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System)
+
+- [Fee Reward](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System/Fee-Reward)
+
+- [Fee Structre](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System/Fee-Structre)
+
+## :handshake: **[Consensus](https://github.com/JamestheDon/open-source-crypto/tree/Consensus)**
+
+→ [Consensus Network Topology](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Network-Topology)
+
+→ [Consensus Immutability & Failure Tolerance](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Immutability-And-Failure-Tolerance)
+
+→ [Gossiping](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Gossiping)
+
+→ [Consensus Agreement](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement)
+
+- [Latency](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement/Latency)
+
+- [Finality](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement/Finality)
 
 ## References
 
