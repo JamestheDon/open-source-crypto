@@ -86,35 +86,35 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 
 → [Software Architecture](https://github.com/JamestheDon/open-source-crypto/tree/master/Codebase/Software-Architecture)
 
-## :busts_in_silhouette: **[Identity Mgmt.](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt)**
+## :busts_in_silhouette: **[Identity Mgmt.](https://github.com/JamestheDon/open-source-crypto/tree/master/Identity-Mgmt)**
 
-→ [Access & Control Layer](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt/Access-And-Control-Layer)
+→ [Access & Control Layer](https://github.com/JamestheDon/open-source-crypto/tree/master/Identity-Mgmt/Access-And-Control-Layer)
 
-→ [Identity Layer](https://github.com/JamestheDon/open-source-crypto/tree/Identity-Mgmt/Identity-Layer)
+→ [Identity Layer](https://github.com/JamestheDon/open-source-crypto/tree/master/Identity-Mgmt/Identity-Layer)
 
-## :balance_scale: **[Charging & Rewarding System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding)**
+## :balance_scale: **[Charging & Rewarding System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding)**
 
-→ [Reward System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Reward-System)
+→ [Reward System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Reward-System)
 
-→ [Fee System](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System)
+→ [Fee System](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System)
 
-- [Fee Reward](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System/Fee-Reward)
+- [Fee Reward](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System/Fee-Reward)
 
-- [Fee Structre](https://github.com/JamestheDon/open-source-crypto/tree/Charging-And-Rewarding/Fee-System/Fee-Structre)
+- [Fee Structre](https://github.com/JamestheDon/open-source-crypto/tree/master/Charging-And-Rewarding/Fee-System/Fee-Structre)
 
-## :handshake: **[Consensus](https://github.com/JamestheDon/open-source-crypto/tree/Consensus)**
+## :handshake: **[Consensus](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus)**
 
-→ [Consensus Network Topology](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Network-Topology)
+→ [Consensus Network Topology](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Cons-Network-Topology)
 
-→ [Consensus Immutability & Failure Tolerance](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Immutability-And-Failure-Tolerance)
+→ [Consensus Immutability & Failure Tolerance](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Cons-Immutability-And-Failure-Tolerance)
 
-→ [Gossiping](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Gossiping)
+→ [Gossiping](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Gossiping)
 
-→ [Consensus Agreement](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement)
+→ [Consensus Agreement](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Cons-Agreement)
 
-- [Latency](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement/Latency)
+- [Latency](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Cons-Agreement/Latency)
 
-- [Finality](https://github.com/JamestheDon/open-source-crypto/tree/Consensus/Cons-Agreement/Finality)
+- [Finality](https://github.com/JamestheDon/open-source-crypto/tree/master/Consensus/Cons-Agreement/Finality)
 
 ## References
 
