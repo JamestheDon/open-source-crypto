@@ -1,6 +1,7 @@
-<p align="center">"<i>Progress </i>"</p>
+<p align="center">"<i>Progress, blockchains and blockchain technologies. </i>"</p>
 
-<h4 align="center">Open Source Cryptosystem Taxonomy. Educational resource.</h4>
+<h4 align="center">Open Source Cryptosystem Taxonomy.</h4>
+<p align="center"> Educational resource.<p>
 
 <br>
 
@@ -23,7 +24,7 @@
 
 # open-source-crypto
 
-## open-source-crypto is a project building:
+## open-source-crypto is building a more technical referance manual around emerging crypto technology:
 
 A model around cryptosystems (ex. Bitcoin), the primative building blocks and !important discovery details. Details such as the solving of philosophical problems (ex.Byzantine Generals Problem).
 
@@ -40,7 +41,7 @@ Creating a resource to shead light on the impact and importance of the Crypto-te
 - [ ] Contribution guidlines.
 - [x] Write "repo mission" section.
 
-# :open_file_folder: Index ⤵️
+# :open_file_folder: Table of Contents
 
 ## :ballot_box: **[Transaction Capabilities](https://github.com/JamestheDon/open-source-crypto/tree/master/Transaction-Capabilities)**
 
