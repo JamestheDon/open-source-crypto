@@ -1,4 +1,4 @@
-<p align="center">"<i>Progress, blockchains and blockchain technologies. </i>"</p>
+<p align="center">"<i>Progress, blockchains and distributed ledger technologies. </i>"</p>
 
 <h4 align="center">Open Source Cryptosystem Taxonomy.</h4>
 <p align="center"> Educational resource.<p>
@@ -22,24 +22,36 @@
 
 <br>
 
-# open-source-crypto
+# Issues in _the_ Industry
 
-## open-source-crypto is building a more technical referance manual around emerging crypto technology:
+THe lack of
 
-A model around cryptosystems (ex. Bitcoin), the primative building blocks and !important discovery details. Details such as the solving of philosophical problems (ex.Byzantine Generals Problem).
+# open-source-crypto, building a more technical referance model around emerging crypto technology.
 
-### The goal:
+## The goal:
 
-Creating a resource to shead light on the impact and importance of the Crypto-tech and sharing knowledge and knowhow with **the** Industry.
+A model around cryptosystems to aid in the comprehension and comparison of quality and performance within these systems.
 
-## Contribution
+Create a resource to shead light on the impact of cryptotech and sharing knowledge and knowhow with **the** Industry.
+
+## How to Contribute
+
+Watch this github project.
+
+Pull requests are welcome!
+
+Submit or comment on an issue on this github project.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more
 
 :ballot_box_with_check: &nbsp;ToDo
 
 - [x] Add **all** Cryptosystem Taxonomy components and sub-components.
-- [x] Build reference section.
-- [ ] Contribution guidlines.
-- [x] Write "repo mission" section.
+- [ ] Build a robust reference section for scientific papers.
+- [ ] Component definitions.
+- [ ] Component explantory content.
+- [ ] Sub-component definitions.
+- [ ] Sub-Component explantory content.
 
 # :open_file_folder: Table of Contents
 
