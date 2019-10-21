@@ -1,6 +1,6 @@
 <p align="center">"<i>Progress, blockchains and distributed ledger technologies. </i>"</p>
 
-<h4 align="center">Open Source Cryptosystem Taxonomy.</h4>
+<h4 align="center">Open Source Cryptosystem Referance.</h4>
 <p align="center"> Educational resource.<p>
 
 <br>
@@ -22,19 +22,25 @@
 
 <br>
 
-# Issues in _the_ Industry
+# open-source-crypto
 
-THe lack of
+## State of _the_ Industry
 
-# open-source-crypto, building a more technical referance model around emerging crypto technology.
+Technologies are fragile Early in their evolutinoary lifecycle becasue of the unknown of grey areas wich can effect the growth for good or bad.
+
+> Crypto needs more groups of people exploring and documenting its potential.
+
+# building a more technical referance model around emerging cryptosystem technology.
 
 ## The goal:
 
 A model around cryptosystems to aid in the comprehension and comparison of quality and performance within these systems.
 
-Create a resource to shead light on the impact of cryptotech and sharing knowledge and knowhow with **the** Industry.
+Create a resource to shead light on the impact of crypto-technologies by sharing knowledge and knowhow with **the** Industry.
 
 ## How to Contribute
+
+Add definitions, expand with explanatory & exploratory content about distributed systems, networking, communications.
 
 Watch this github project.
 
