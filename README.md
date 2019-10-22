@@ -27,17 +27,19 @@
 
 # State of _The_ Industry
 
-Technologies are fragile early in their evolutinoary lifecycle, unfortunately this Industry is full of content that underminds peoples confidence in it or is too complex to understand. Crypto needs more groups of people exploring and documenting its potential.
+Technologies are fragile early in their evolutionary lifecycle and unfortunately this Industry is full of content that underminds peoples confidence in it or is far too complex to understand. Crypto needs more groups of people exploring and documenting its potential in a inviting way.
 
 ## :trophy: The goal
 
-A model around cryptosystems to aid in the comprehension and comparison of quality and performance within these systems.
+To share knowledge and knowhow with **the** Industry.
 
-Create a resource to shead light on the impact of crypto-technologies by sharing knowledge and knowhow with **the** Industry.
+Create a resource that sheads light on the impact of crypto-technologies.
+
+A model around cryptosystems that aids in the comprehension and comparison of quality and performance.
 
 ## :pencil2: How to Contribute
 
-Add definitions, expand with explanatory & exploratory content about distributed systems, networking, communications.
+Add definitions and expand with explanatory & exploratory content about distributed systems, networking, communications.
 
 1. Watch this github project.
 
