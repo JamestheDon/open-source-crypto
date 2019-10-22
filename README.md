@@ -1,7 +1,8 @@
-<p align="center">"<i>Progress, blockchains and distributed ledger technologies. </i>"</p>
+<h1 align="center">Open Source Crypto </h1>
 
-<h4 align="center">Open Source Cryptosystem Referance.</h4>
-<p align="center"> Educational resource.<p>
+<h3 align="center">"<i>Progress, blockchains and distributed ledger technologies. </i>"</h3>
+
+<p align="center"> 🎓 Educational resource.<p>
 
 <br>
 
@@ -20,39 +21,35 @@
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
 </div>
 
-<br>
+<hr>
 
-# open-source-crypto
+<h1 align="center"> Building a more technical referance model around emerging cryptosystem technology.</h1>
 
-## State of _the_ Industry
+# State of _The_ Industry
 
-Technologies are fragile Early in their evolutinoary lifecycle becasue of the unknown of grey areas wich can effect the growth for good or bad.
+Technologies are fragile early in their evolutinoary lifecycle, unfortunately this Industry is full of content that underminds peoples confidence in it or is too complex to understand. Crypto needs more groups of people exploring and documenting its potential.
 
-> Crypto needs more groups of people exploring and documenting its potential.
-
-# building a more technical referance model around emerging cryptosystem technology.
-
-## The goal:
+## :trophy: The goal
 
 A model around cryptosystems to aid in the comprehension and comparison of quality and performance within these systems.
 
 Create a resource to shead light on the impact of crypto-technologies by sharing knowledge and knowhow with **the** Industry.
 
-## How to Contribute
+## :pencil2: How to Contribute
 
 Add definitions, expand with explanatory & exploratory content about distributed systems, networking, communications.
 
-Watch this github project.
+1. Watch this github project.
 
-Pull requests are welcome!
+2. Submit or comment on an issue on this github project.
 
-Submit or comment on an issue on this github project.
+3. Pull requests are welcome!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more
 
 :ballot_box_with_check: &nbsp;ToDo
 
-- [x] Add **all** Cryptosystem Taxonomy components and sub-components.
+- [x] Add V1 Cryptosystem Taxonomy components and sub-components.
 - [ ] Build a robust reference section for scientific papers.
 - [ ] Component definitions.
 - [ ] Component explantory content.
