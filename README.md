@@ -17,8 +17,8 @@
 
 <div align="center">
 <sub>Created by
-<a href="https://twitter.com/trimstray">James Don</a> and
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
+<a href="https://twitter.com/donjhawk">James Don</a> and
+<a href="https://github.com/JamestheDon/open-source-crypto/graphs/contributors">contributors</a>
 </div>
 
 <hr>
